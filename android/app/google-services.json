@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "219673591902",
+    "project_id": "blood-link-app-987f1",
+    "storage_bucket": "blood-link-app-987f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219673591902:android:f0ffd441e7c3aa9673b4cf",
+        "android_client_info": {
+          "package_name": "com.example.blood_link_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219673591902-6f9de0vube61gjlgl296kprav640jnbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blood_link_app",
+            "certificate_hash": "e10d17ade29ef2bdedf3667d9ca051b1d43a8b9e"
+          }
+        },
+        {
+          "client_id": "219673591902-hllghtpcv951s4ium37ddunr7np577fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCod4c-Jr900mJXZAXMUBDS8gojJJ1dbZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219673591902-hllghtpcv951s4ium37ddunr7np577fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
